@@ -48,7 +48,7 @@ Dataset link: [Kaggle – New York City Taxi Fare Prediction](https://www.kaggle
 ## ⚙️ Setup Instructions
 
 ```bash
-git clone <your-repo-url>
+git clone <git@github.com:ishmeetsinghsaini11/nyc-taxi-fare-prediction.git>
 cd New_York_City_Taxi_Fare_Prediction
 
 python -m venv venv
